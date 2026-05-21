@@ -42,7 +42,7 @@ npm install
 
 ## 4. Rodar o projeto
 ```
-npx start
+npm start
 ```
 
 # Conceitos trabalhados
